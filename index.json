@@ -1,0 +1,10 @@
+{
+  "carts": [
+    {"file": "jumpy.adv", "title": "jumpy", "author": "adv", "players": 1,
+     "about": "run and jump to the flag! arrows move, z or up jumps."},
+    {"file": "breakout.adv", "title": "breakout", "author": "adv", "players": 1,
+     "about": "smash every brick with the bouncing ball!"},
+    {"file": "hello.adv", "title": "hello adv", "author": "adv", "players": 1,
+     "about": "the very first adv cart. a bouncy ball and the whole palette."}
+  ]
+}
