@@ -1,7 +1,7 @@
 {
   "carts": [
     {"file": "jumpy.adv", "title": "jumpy", "author": "adv", "players": 1,
-     "about": "run and jump to the flag! arrows move, z or up jumps."},
+     "about": "four worlds to run, jump and stomp through! springs, checkpoints, slimes, bats and three new songs."},
     {"file": "breakout.adv", "title": "breakout", "author": "adv", "players": 1,
      "about": "smash every brick with the bouncing ball!"},
     {"file": "hello.adv", "title": "hello adv", "author": "adv", "players": 1,
