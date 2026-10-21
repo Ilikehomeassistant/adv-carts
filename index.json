@@ -12,7 +12,7 @@
       "title": "breakout",
       "author": "adv",
       "players": 1,
-      "about": "smash every brick with the bouncing ball!"
+      "about": "smash every brick with the bouncing ball! 5 lives and a nice wide paddle."
     },
     {
       "file": "hello.adv",
@@ -27,6 +27,27 @@
       "author": "Atomicdude",
       "players": 1,
       "about": "This is my first game im atomicdude you can call me atomic and i created ADV!!"
+    },
+    {
+      "file": "snake.adv",
+      "title": "snake",
+      "author": "adv",
+      "players": 2,
+      "about": "eat the apples, grow longer, don't crash! z for 1 player, x for 2 (player 2 uses w a s d)."
+    },
+    {
+      "file": "rocks.adv",
+      "title": "rocks",
+      "author": "adv",
+      "players": 1,
+      "about": "fly your ship and blast the rocks to bits. left/right turn, up thrusts, z fires."
+    },
+    {
+      "file": "cave.adv",
+      "title": "coin cave",
+      "author": "adv",
+      "players": 1,
+      "about": "grab the coins and gems, squash the slimes, reach the flag. made with the game kit: no code!"
     }
   ]
 }
