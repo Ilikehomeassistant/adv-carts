@@ -1,0 +1,5 @@
+adv cart v1
+__meta__
+title=forge test
+__lua__
+function _draw() cls(1) print("hi", 50, 60, 23) end
