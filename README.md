@@ -8,5 +8,5 @@ Every `.adv` file is a real PNG picture - rename it to `.png` to see the game hi
 Play them at **https://ilikehomeassistant.github.io/adv-web/**
 
 ## Adding a cart
-Make a game in the [Cart Forge](https://ilikehomeassistant.github.io/adv-web/forge.html) and press
+Make a game in the [Developer Kit](https://ilikehomeassistant.github.io/adv-web/devkit.html) and press
 **UPLOAD TO ADV ONLINE**, or send a pull request by hand. See [CONTRIBUTING.md](CONTRIBUTING.md).

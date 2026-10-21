@@ -4,14 +4,14 @@ Anyone can make a game for ADV and send it here. Once it's accepted, it shows up
 everyone's online screen: on the website, in the Windows app and on the phone.
 
 ## 1. Make it
-- **In your browser:** open the [Cart Forge](https://ilikehomeassistant.github.io/adv-web/forge.html) on a PC.
+- **In your browser:** open the [Developer Kit](https://ilikehomeassistant.github.io/adv-web/devkit.html) on a PC.
   - *The easy way:* in the sprite editor, click **IT IS...** to say what a sprite is
     (player, enemy, collect, solid, hurts or goal), paint them on the map, and press CTRL+R.
   - *The advanced way:* write Lua in the code editor, and make sounds and music. You can mix in Scratch-style blocks too.
-- **On Windows:** [download ADV](https://ilikehomeassistant.github.io/adv-web/). It's the same console with the same editors.
+- **On Windows:** [download the Developer Kit](https://github.com/Ilikehomeassistant/adv-web/releases/latest/download/ADV-DevKit-Windows.zip), with the same editors.
 
 ## 2. Send it
-- **From the Cart Forge:** click **UPLOAD TO ADV ONLINE**. It uses your own GitHub account
+- **From the Developer Kit:** click **UPLOAD TO ADV ONLINE**. It uses your own GitHub account
   to make a copy of this repo, adds your cart, and opens a pull request. Commits use
   GitHub's private "noreply" email, so your email isn't shown.
 - **By hand:** fork this repo, put your cart in `carts/`, add a line to `index.json`, and open a pull request:
