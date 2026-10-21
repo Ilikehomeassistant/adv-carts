@@ -1,0 +1,16 @@
+# Checks every cart sent in a pull request (from the Cart Forge, or by hand) before
+# the owner looks at it: only carts and the list change, the carts are real carts and
+# not too big, and every line in index.json is filled in properly.
+name: Check carts
+on: pull_request
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check the carts and the list
+        run: python3 .github/check_carts.py "origin/${{ github.base_ref }}"
