@@ -11,7 +11,7 @@ everyone's online screen: on the website, in the Windows app and on the phone.
 - **On Windows:** [download the Developer Kit](https://github.com/Ilikehomeassistant/adv-web/releases/latest/download/ADV-DevKit-Windows.zip), with the same editors.
 
 ## 2. Send it
-- **From the Developer Kit:** click **UPLOAD TO ADV ONLINE**. It uses your own GitHub account
+- **From the Developer Kit:** type **UPLOAD** with your cart in the slot (or click **UPLOAD TO ADV ONLINE**). It uses your own GitHub account
   to make a copy of this repo, adds your cart, and opens a pull request. Commits use
   GitHub's private "noreply" email, so your email isn't shown.
 - **By hand:** fork this repo, put your cart in `carts/`, add a line to `index.json`, and open a pull request:
