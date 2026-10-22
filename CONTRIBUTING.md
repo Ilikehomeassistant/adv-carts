@@ -6,7 +6,7 @@ everyone's online screen: on the website, in the Windows app and on the phone.
 ## 1. Make it
 - **In your browser:** open the [Developer Kit](https://ilikehomeassistant.github.io/adv-web/devkit.html) on a PC.
   - *The easy way:* in the sprite editor, click **IT IS...** to say what a sprite is
-    (player, enemy, collect, solid, hurts or goal), paint them on the map, and press CTRL+R.
+    (player, enemy, flyer, collect, solid, hurts, goal, bouncy, heart, save or climb), paint them on the map, and press CTRL+R.
   - *The advanced way:* write Lua in the code editor, and make sounds and music. You can mix in Scratch-style blocks too.
 - **On Windows:** [download the Developer Kit](https://github.com/Ilikehomeassistant/adv-web/releases/latest/download/ADV-DevKit-Windows.zip), with the same editors.
 

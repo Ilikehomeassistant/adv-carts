@@ -8,6 +8,41 @@
       "about": "four worlds to run, jump and stomp through! springs, checkpoints, slimes, bats and three new songs."
     },
     {
+      "file": "blaster.adv",
+      "title": "star blaster",
+      "author": "adv",
+      "players": 1,
+      "about": "shoot the bugs before they swoop! power-ups, and a boss every 5 waves. arrows fly, z fires."
+    },
+    {
+      "file": "pong.adv",
+      "title": "paddle duel",
+      "author": "adv",
+      "players": 2,
+      "about": "pong! first to 7 wins. z: play against adv. x: 2 players (player 2 uses w/s)."
+    },
+    {
+      "file": "flap.adv",
+      "title": "flap",
+      "author": "adv",
+      "players": 1,
+      "about": "tap z or up to flap between the pipes. it gets faster the further you go!"
+    },
+    {
+      "file": "skyhop.adv",
+      "title": "sky hop",
+      "author": "adv",
+      "players": 1,
+      "about": "bounce on springs, climb vines, dodge the bats! made with the game kit, with no code at all."
+    },
+    {
+      "file": "copycat.adv",
+      "title": "copycat",
+      "author": "adv",
+      "players": 1,
+      "about": "watch the pads light up, then copy them with the arrows. one more every round!"
+    },
+    {
       "file": "breakout.adv",
       "title": "breakout",
       "author": "adv",
@@ -33,21 +68,21 @@
       "title": "snake",
       "author": "adv",
       "players": 2,
-      "about": "eat the apples, grow longer, don't crash! z for 1 player, x for 2 (player 2 uses w a s d)."
+      "about": "eat the apples, grow, don't crash! golden apples are worth 3. z: 1 player, x: 2 (player 2 uses w a s d)."
     },
     {
       "file": "rocks.adv",
       "title": "rocks",
       "author": "adv",
       "players": 1,
-      "about": "fly your ship and blast the rocks to bits. left/right turn, up thrusts, z fires."
+      "about": "blast the rocks before they get you! left/right turn, up thrusts, z fires, down is hyperspace. watch out for the ufo!"
     },
     {
       "file": "cave.adv",
       "title": "coin cave",
       "author": "adv",
       "players": 1,
-      "about": "grab the coins and gems, squash the slimes, reach the flag. made with the game kit: no code!"
+      "about": "a long cave of coins, slimes, bats, springs and a ladder. made with the game kit: no code!"
     }
   ]
 }
