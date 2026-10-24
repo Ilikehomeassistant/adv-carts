@@ -1,11 +1,32 @@
 {
   "carts": [
     {
+      "file": "bump.adv",
+      "title": "blob bump",
+      "author": "adv",
+      "players": 4,
+      "about": "new! sumo blobs on a shrinking platform. shove the others off! up to 4 players online, z dashes."
+    },
+    {
+      "file": "pong.adv",
+      "title": "zap rally",
+      "author": "adv",
+      "players": 2,
+      "about": "pong! first to 7. play online with a friend (up hosts, down joins), pick how good adv is, hit the power orbs."
+    },
+    {
+      "file": "tanks.adv",
+      "title": "tank duel",
+      "author": "adv",
+      "players": 2,
+      "about": "shells bounce off walls. 3 arenas and power crates: triple, bouncy, shield. play online: up hosts, down joins!"
+    },
+    {
       "file": "jumpy.adv",
       "title": "jumpy",
       "author": "adv",
       "players": 1,
-      "about": "four worlds to run, jump and stomp through! springs, checkpoints, slimes, bats and three new songs."
+      "about": "the slime king took the four stars of jumpy town! four worlds, a world map, secret stars, helmets, spikies, fireballs and a boss. x runs!"
     },
     {
       "file": "road.adv",
@@ -15,25 +36,25 @@
       "about": "dodge the traffic, grab the fuel, drive on to the desert, the city at night and the snow!"
     },
     {
+      "file": "shove.adv",
+      "title": "box shove",
+      "author": "adv",
+      "players": 1,
+      "about": "push every crate onto a spot. 12 levels, every one solvable. x undoes a move."
+    },
+    {
       "file": "blaster.adv",
       "title": "bug storm",
       "author": "adv",
       "players": 1,
-      "about": "shoot the bugs before they swoop! power-ups, and a boss every 5 waves. arrows fly, z fires."
-    },
-    {
-      "file": "pong.adv",
-      "title": "zap rally",
-      "author": "adv",
-      "players": 2,
-      "about": "pong! first to 7 wins. z: play against adv. x: 2 players (player 2 uses w/s)."
+      "about": "shoot the bugs before they swoop! armoured beetles, shields, smart bombs, and a boss every 5 waves."
     },
     {
       "file": "flap.adv",
       "title": "flapjack",
       "author": "adv",
       "players": 1,
-      "about": "tap z or up to flap between the pipes. it gets faster the further you go!"
+      "about": "flap between the pipes, grab the coins, win bronze, silver and gold. moving pipes, then night..."
     },
     {
       "file": "skyhop.adv",
@@ -47,14 +68,28 @@
       "title": "echo pads",
       "author": "adv",
       "players": 1,
-      "about": "watch the pads light up, then copy them with the arrows. one more every round!"
+      "about": "watch the pads light up, then copy them. classic, speedy and backwards modes!"
     },
     {
       "file": "breakout.adv",
       "title": "smashbox",
       "author": "adv",
       "players": 1,
-      "about": "smash every brick with the bouncing ball! 5 lives and a nice wide paddle."
+      "about": "smash every brick! 5 levels, silver bricks, and capsules: wide paddle, slow ball, extra life."
+    },
+    {
+      "file": "snake.adv",
+      "title": "noodle",
+      "author": "adv",
+      "players": 2,
+      "about": "eat the apples, grow, do not crash! 4 arenas, golden apples and chill berries. 1 or 2 players."
+    },
+    {
+      "file": "rocks.adv",
+      "title": "space rubble",
+      "author": "adv",
+      "players": 1,
+      "about": "blast the rocks before they get you! shields, triple shot and rapid fire. watch out for the ufo!"
     },
     {
       "file": "hello.adv",
@@ -69,27 +104,6 @@
       "author": "Atomicdude",
       "players": 1,
       "about": "This is my first game im atomicdude you can call me atomic and i created ADV!!"
-    },
-    {
-      "file": "snake.adv",
-      "title": "noodle",
-      "author": "adv",
-      "players": 2,
-      "about": "eat the apples, grow, don't crash! golden apples are worth 3. z: 1 player, x: 2 (player 2 uses w a s d)."
-    },
-    {
-      "file": "rocks.adv",
-      "title": "space rubble",
-      "author": "adv",
-      "players": 1,
-      "about": "blast the rocks before they get you! left/right turn, up thrusts, z fires, down is hyperspace. watch out for the ufo!"
-    },
-    {
-      "file": "cave.adv",
-      "title": "lava lode",
-      "author": "adv",
-      "players": 1,
-      "about": "a long cave of coins, slimes, bats, springs and a ladder. made with the game kit: no code!"
     }
   ]
 }
