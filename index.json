@@ -8,6 +8,13 @@
       "about": "four worlds to run, jump and stomp through! springs, checkpoints, slimes, bats and three new songs."
     },
     {
+      "file": "road.adv",
+      "title": "road rush",
+      "author": "adv",
+      "players": 1,
+      "about": "dodge the traffic, grab the fuel, drive on to the desert, the city at night and the snow!"
+    },
+    {
       "file": "blaster.adv",
       "title": "bug storm",
       "author": "adv",
