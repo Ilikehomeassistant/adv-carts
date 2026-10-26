@@ -8,6 +8,13 @@
       "about": "new! sumo blobs on a shrinking platform. shove the others off! up to 4 players online, z dashes."
     },
     {
+      "file": "pips.adv",
+      "title": "pip pile",
+      "author": "adv",
+      "players": 4,
+      "about": "new! a tile game for 2 to 4, online only - only you see your hand. match the suit, number or picture; rainbow fits all. needs adv 1.0.1."
+    },
+    {
       "file": "pong.adv",
       "title": "zap rally",
       "author": "adv",
